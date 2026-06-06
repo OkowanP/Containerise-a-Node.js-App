@@ -50,7 +50,7 @@ Screenshot 3: docker ps showing the running container
 Screenshot 4: docker logs output
 ![image alt](https://github.com/OkowanP/Containerise-a-Node.js-App/blob/b148f4842c28118663414ff7e323000b50e00c56/Screenshot%204.png)
 Screenshot 5: Your image live on Docker Hub
-![image alt]()
+![image alt](https://github.com/OkowanP/Containerise-a-Node.js-App/blob/f194556a25ace50e519480485e8185feaef56e9a/Screenshot%205.png)
 
 
 

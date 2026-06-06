@@ -46,7 +46,7 @@ Screenshot 1: APP running locally, broswer output.
 Screenshot 2: docker images showing your image
 ![image](https://github.com/OkowanP/Containerise-a-Node.js-App/blob/d1a2720fccfe6555f519b1e01b910ceb06872257/Screenshot%202.png)
 Screenshot 3: docker ps showing the running container
-![image alt]()
+![image alt](https://github.com/OkowanP/Containerise-a-Node.js-App/blob/e3df1765168c88fab712496407f0b474852ddebc/Screenshot%203.png)
 Screenshot 4: docker logs output
 ![image alt]()
 Screenshot 5: Your image live on Docker Hub
